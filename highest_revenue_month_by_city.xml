@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>shyam choure</LastAuthor>
+  <LastSaved>2024-12-15T10:50:28Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6880</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#375623" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s94">
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s106">
+   <NumberFormat
+    ss:Format="_ [$₹-449]\ * #,##0_ ;_ [$₹-449]\ * \-#,##0_ ;_ [$₹-449]\ * &quot;-&quot;??_ ;_ @_ "/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Column ss:AutoFitWidth="0" ss:Width="110" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="92"/>
+   <Column ss:AutoFitWidth="0" ss:Width="126.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">City</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Month</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Highest Revenue</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">% Contribution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Chandigarh</Data></Cell>
+    <Cell><Data ss:Type="String">February</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">2108290</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">19.065100000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Coimbatore</Data></Cell>
+    <Cell><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">612431</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">17.378900000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Indore</Data></Cell>
+    <Cell><Data ss:Type="String">May</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">1380996</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">18.087199999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Jaipur</Data></Cell>
+    <Cell><Data ss:Type="String">February</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">7747202</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">20.8216</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Kochi</Data></Cell>
+    <Cell><Data ss:Type="String">May</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">3333746</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">19.613</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Lucknow</Data></Cell>
+    <Cell><Data ss:Type="String">February</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">1777269</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">18.780100000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Mysore</Data></Cell>
+    <Cell><Data ss:Type="String">May</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">745170</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">18.377700000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Surat</Data></Cell>
+    <Cell><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">1154909</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">17.956800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Vadodara</Data></Cell>
+    <Cell><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">706250</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">18.5992</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.5">
+    <Cell><Data ss:Type="String">Visakhapatnam</Data></Cell>
+    <Cell><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="Number">1390682</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">17.343900000000001</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C3:R11C3</Range>
+  </ConditionalFormatting>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>shyam</Author>
+  <LastAuthor>shyam choure</LastAuthor>
+  <Created>2024-12-14T23:08:44Z</Created>
+  <LastSaved>2024-12-14T23:29:28Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Library>Analysis\FUNCRES.XLAM</Library>
+   <SheetName>RES_fr-FR</SheetName>
+   <SheetName>RES_en-US</SheetName>
+   <SheetName>RES_cs-CZ</SheetName>
+   <SheetName>RES_da-DK</SheetName>
+   <SheetName>RES_de-DE</SheetName>
+   <SheetName>RES_el-GR</SheetName>
+   <SheetName>RES_es-ES</SheetName>
+   <SheetName>RES_fi-FI</SheetName>
+   <SheetName>RES_hr-HR</SheetName>
+   <SheetName>RES_hu-HU</SheetName>
+   <SheetName>RES_it-IT</SheetName>
+   <SheetName>RES_ja-JP</SheetName>
+   <SheetName>RES_ko-KR</SheetName>
+   <SheetName>RES_lv-LV</SheetName>
+   <SheetName>RES_nb-NO</SheetName>
+   <SheetName>RES_nl-NL</SheetName>
+   <SheetName>RES_pl-PL</SheetName>
+   <SheetName>RES_pt-BR</SheetName>
+   <SheetName>RES_pt-PT</SheetName>
+   <SheetName>RES_ro-RO</SheetName>
+   <SheetName>RES_ru-RU</SheetName>
+   <SheetName>RES_sl-SI</SheetName>
+   <SheetName>RES_sv-SE</SheetName>
+   <SheetName>RES_tr-TR</SheetName>
+   <SheetName>RES_zh-CN</SheetName>
+   <SheetName>RES_zh-TW</SheetName>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>0</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>1</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>2</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>3</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>4</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>5</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>6</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>7</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>8</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>9</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>10</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>11</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>12</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>13</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>14</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>15</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>16</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>17</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>18</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>19</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>20</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>21</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>22</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>23</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>24</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>25</SheetIndex>
+   </Xct>
+  </SupBook>
+  <WindowHeight>6880</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Comma">
+   <NumberFormat ss:Format="_(* #,##0.00_);_(* \(#,##0.00\);_(* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s191">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#003300" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s192">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#003300" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s193">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#003300" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s194">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s195" ss:Parent="s16">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s196">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0.00"/>
+  </Style>
+  <Style ss:ID="s197">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0"/>
+  </Style>
+  <Style ss:ID="s198">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s199">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s200" ss:Parent="s16">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s201">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0.00"/>
+  </Style>
+  <Style ss:ID="s202">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0"/>
+  </Style>
+  <Style ss:ID="s203">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s204">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s205" ss:Parent="s16">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="_(* #,##0_);_(* \(#,##0\);_(* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s206">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0.00"/>
+  </Style>
+  <Style ss:ID="s207">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[$₹-439]#,##0"/>
+  </Style>
+  <Style ss:ID="s208">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#70AD47"/>
+   </Borders>
+   <Font ss:FontName="Poppins light" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="city_level_fare_and_trip_summar">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Column ss:Index="2" ss:Width="93.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="64"/>
+   <Column ss:AutoFitWidth="0" ss:Width="116.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="98"/>
+   <Column ss:AutoFitWidth="0" ss:Width="130"/>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s191"><Data ss:Type="String">City</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">Total Trips</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">Avg Fare per KM</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">Avg Fare Per Trip</Data></Cell>
+    <Cell ss:StyleID="s193"><Data ss:Type="String">contribution_percentage</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s194"><Data ss:Type="String">Chandigarh</Data></Cell>
+    <Cell ss:StyleID="s195"><Data ss:Type="Number">38981</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="Number">12.17599227</Data></Cell>
+    <Cell ss:StyleID="s197"><Data ss:Type="Number">283.68700000000001</Data></Cell>
+    <Cell ss:StyleID="s198"><Data ss:Type="Number">9.1525499999999997</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s199"><Data ss:Type="String">Coimbatore</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="Number">21104</Data></Cell>
+    <Cell ss:StyleID="s201"><Data ss:Type="Number">11.30485444</Data></Cell>
+    <Cell ss:StyleID="s202"><Data ss:Type="Number">166.98220000000001</Data></Cell>
+    <Cell ss:StyleID="s203"><Data ss:Type="Number">4.95512</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s194"><Data ss:Type="String">Indore</Data></Cell>
+    <Cell ss:StyleID="s195"><Data ss:Type="Number">42456</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="Number">11.0655986</Data></Cell>
+    <Cell ss:StyleID="s197"><Data ss:Type="Number">179.83860000000001</Data></Cell>
+    <Cell ss:StyleID="s198"><Data ss:Type="Number">9.9684699999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s199"><Data ss:Type="String">Jaipur</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="Number">76888</Data></Cell>
+    <Cell ss:StyleID="s201"><Data ss:Type="Number">16.25218302</Data></Cell>
+    <Cell ss:StyleID="s202"><Data ss:Type="Number">483.91809999999998</Data></Cell>
+    <Cell ss:StyleID="s203"><Data ss:Type="Number">18.05294</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s194"><Data ss:Type="String">Kochi</Data></Cell>
+    <Cell ss:StyleID="s195"><Data ss:Type="Number">50702</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="Number">14.13468563</Data></Cell>
+    <Cell ss:StyleID="s197"><Data ss:Type="Number">335.24509999999998</Data></Cell>
+    <Cell ss:StyleID="s198"><Data ss:Type="Number">11.904590000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s199"><Data ss:Type="String">Lucknow</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="Number">64299</Data></Cell>
+    <Cell ss:StyleID="s201"><Data ss:Type="Number">12.14309269</Data></Cell>
+    <Cell ss:StyleID="s202"><Data ss:Type="Number">147.18039999999999</Data></Cell>
+    <Cell ss:StyleID="s203"><Data ss:Type="Number">15.097099999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s194"><Data ss:Type="String">Mysore</Data></Cell>
+    <Cell ss:StyleID="s195"><Data ss:Type="Number">16238</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="Number">15.39967755</Data></Cell>
+    <Cell ss:StyleID="s197"><Data ss:Type="Number">249.7072</Data></Cell>
+    <Cell ss:StyleID="s198"><Data ss:Type="Number">3.8126099999999998</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s199"><Data ss:Type="String">Surat</Data></Cell>
+    <Cell ss:StyleID="s200"><Data ss:Type="Number">54843</Data></Cell>
+    <Cell ss:StyleID="s201"><Data ss:Type="Number">10.91605974</Data></Cell>
+    <Cell ss:StyleID="s202"><Data ss:Type="Number">117.27290000000001</Data></Cell>
+    <Cell ss:StyleID="s203"><Data ss:Type="Number">12.87688</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s194"><Data ss:Type="String">Vadodara</Data></Cell>
+    <Cell ss:StyleID="s195"><Data ss:Type="Number">32026</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="Number">10.544179639999999</Data></Cell>
+    <Cell ss:StyleID="s197"><Data ss:Type="Number">118.56619999999999</Data></Cell>
+    <Cell ss:StyleID="s198"><Data ss:Type="Number">7.5195499999999997</Data></Cell>
+   </Row>
+   <Row ss:Height="21.5">
+    <Cell ss:Index="2" ss:StyleID="s204"><Data ss:Type="String">Visakhapatnam</Data></Cell>
+    <Cell ss:StyleID="s205"><Data ss:Type="Number">28366</Data></Cell>
+    <Cell ss:StyleID="s206"><Data ss:Type="Number">12.703756070000001</Data></Cell>
+    <Cell ss:StyleID="s207"><Data ss:Type="Number">282.67230000000001</Data></Cell>
+    <Cell ss:StyleID="s208"><Data ss:Type="Number">6.6601999999999997</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C3:R11C3</Range>
+  </ConditionalFormatting>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
